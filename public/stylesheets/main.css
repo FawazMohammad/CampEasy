@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(226, 243, 255);
+}
+
+
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+    height: 100%;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+.delete-form {
+    display: inline;
+}
+
+.col-md-3.col-sm-6 {
+    border-top: 15px solid transparent;
+}
